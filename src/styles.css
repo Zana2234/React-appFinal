@@ -10,3 +10,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.GithubLink {
+  text-align: center;
+}
+.GithubLink a {
+  color: blue;
+  font-weight: bold;
+}
